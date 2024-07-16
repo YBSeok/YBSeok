@@ -25,7 +25,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Quartus-F24E1E?style=flat-square&logo=Quartus&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Figma-B92B27?style=flat-square&logo=Figma&logoColor=white"/></a>
 </div>
 <br>
