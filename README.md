@@ -9,8 +9,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=C&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=Cplusplus&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Verilog-5D87BF?style=flat-square&logo=V&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/ARM-0091BD?style=flat-square&logo=Arm&logoColor=white"/></a>
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -25,7 +23,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Figma-B92B27?style=flat-square&logo=Figma&logoColor=white"/></a>
 </div>
 <br>
 <div align="center">
