@@ -25,6 +25,3 @@
   <img src="https://img.shields.io/badge/soberyl4304@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 <br>
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YBSeok&show_icons=true&theme=radical)
-
