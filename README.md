@@ -30,6 +30,5 @@
 - 📊 AI Infrastructure
 - ⚡ Optimized Trading System
 
-### **Connect**
-- Email : [soberyl4304@gmail.com](mailto:soberyl4304@gmail.com)
-- Blog : [https://soberyl.tistory.com/](https://soberyl.tistory.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:soberyl4304@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=white)](https://soberyl.tistory.com/)
