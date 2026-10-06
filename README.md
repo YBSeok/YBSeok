@@ -1,8 +1,8 @@
 # Find the next bottleneck
 
 ### **Experience**
-- Open Source Contribution Academy (Jul 2026 ~)
 - Samsung Software AI Academy For Youth (Jul 2026 ~)
+- Open Source Contribution Academy (Jul 2026 ~ Oct 2026)
 - Goorm Profect Batch 5 - Full-Stack Track (Dec 2025 ~ Mar 2026)
 - University MakeUs Challenge (Mar 2024 ~ Feb 2025)
 - Kwangwoon University (Mar 2020 – Feb 2026)
@@ -28,7 +28,8 @@
 
 ### **Interested In**
 - 📊 AI Infrastructure
-- ⚡ Optimized Trading System
+- 🔀 Distributed System
+- ⚡ Backend Optimizing
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:soberyl4304@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=white)](https://soberyl.tistory.com/)
